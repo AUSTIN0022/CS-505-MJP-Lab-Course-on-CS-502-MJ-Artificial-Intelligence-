@@ -25,6 +25,5 @@
 14. [Solving the N Queens Puzzle using Forward Checking](Q14.py)
 15. [Tic-Tac-Toe Game](Q15.py)
 
-**Creator:** Maviya Shaikh
 
 
